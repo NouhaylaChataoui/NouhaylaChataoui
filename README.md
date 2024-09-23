@@ -19,7 +19,7 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 
 ## 📫 How to reach me
 - Email: nouhayla.chataoui24@gmail.com
-- LinkedIn: [Nouhayla Chataoui]https://www.linkedin.com/in/nouhayla-chataoui-208626211
-- GitHub: [NouhaylaChataoui]https://github.com/NouhaylaChataoui
+- LinkedIn: https://www.linkedin.com/in/nouhayla-chataoui-208626211
+- GitHub: https://github.com/NouhaylaChataoui
 
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
