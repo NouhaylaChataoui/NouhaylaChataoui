@@ -68,5 +68,8 @@ Feel free to check out my repositories and contribute to any ongoing projects! ð
   <img src="https://github.com/user-attachments/assets/821c7997-e2be-4593-a7cb-e11233cf96b0" alt="GIF dynamique" width="400">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" alt="Hello World GIF" width="400">
+</p>
 
 
