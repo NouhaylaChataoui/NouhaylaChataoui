@@ -1,4 +1,4 @@
-# Hi there!  /> 👋 I'm Nouhayla Chataoui
+# Hi there! 👋 I'm Nouhayla Chataoui
 
 I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, always eager to learn and work on innovative data-driven projects. My journey so far has been focused on applying AI and machine learning techniques to real-world problems, and I'm now diving deeper into cloud infrastructure, big data, and stream processing.
 
@@ -29,16 +29,3 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nouhayla.chataoui24@gmail.com)
 
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
-
-
-
-
-# 👋 Hola, World! />
-
-I'm **Nouhayla Chataoui**, a passionate **Data Scientist** exploring the exciting world of **data science** and **engineering**! 🚀
-
-- 🛠 **Currently**, I'm focused on mastering cloud infrastructure and building real-time data pipelines.
-- 🌱 I'm familiar with technologies like **Python**, **SQL**, **Kafka**, **AWS**, and **GCP**.
-- 💡 I love discussing anything related to **machine learning**, **data engineering**, and **AI**.
-- ⚡ **Fun fact**: Did you know that over 1.145 trillion megabytes of data are produced daily? That's a lot of data!
-
