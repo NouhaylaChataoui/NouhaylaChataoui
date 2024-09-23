@@ -10,10 +10,11 @@ I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, alwa
 
 ## 🔧 Technologies & Tools I Work With:
 - **Languages**: Python, SQL
-- **Data Engineering**: Apache Kafka, Apache Airflow, DBT, Terraform
-- **Cloud**: Google Cloud Platform (GCP), AWS
-- **Databases**: PostgreSQL, BigQuery, MongoDB
-- **Data Visualization**: Power BI, Google Looker Studio, Matplotlib
+- **Data Engineering**: Apache Kafka, Apache Airflow, DBT, Terraform, Databricks
+- **Cloud**: Google Cloud Platform (GCP), AWS, Snowflake
+- **Databases**: PostgreSQL, BigQuery ...
+- **Databases**: PostgreSQL, BigQ
+- **Data Quality**: soda
 - **Machine Learning**: Scikit-learn, TensorFlow, NLP
 
   
@@ -30,7 +31,6 @@ I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, alwa
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Soda](https://img.shields.io/badge/Soda-008F93?style=for-the-badge&logo=data-quality&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
