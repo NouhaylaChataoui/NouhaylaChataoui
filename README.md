@@ -1,6 +1,12 @@
-# Hi there! 👋 I'm Nouhayla Chataoui
+<h1 align="center">Hi there! 👋 I'm Nouhayla Chataoui</h1>
 
 I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, always eager to learn and work on innovative data-driven projects. My journey so far has been focused on applying AI and machine learning techniques to real-world problems, and I'm now diving deeper into cloud infrastructure, big data, and stream processing.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-In%20Progress-brightgreen?style=flat-square&logo=python&logoColor=white" alt="Data Science Badge">
+  <img src="https://img.shields.io/badge/Data%20Engineering-Enthusiast-blue?style=flat-square&logo=airflow&logoColor=white" alt="Data Engineering Badge">
+</p>
+
 
 - 🌱 **Currently learning**: Cloud Infrastructure (AWS, GCP), Data Engineering tools, Big Data, Stream Processing
 - 🔭 **Working on**: Building real-time data pipelines and exploring new ML techniques
@@ -55,15 +61,5 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
 
 
-<h1 align="center">👋 Hello, World! 🌍</h1>
-
-<p align="center">
-  I'm [Your Name], a passionate data science and engineering enthusiast 🚀 exploring the limitless possibilities in the world of data! 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-In%20Progress-brightgreen?style=flat-square&logo=python&logoColor=white" alt="Data Science Badge">
-  <img src="https://img.shields.io/badge/Data%20Engineering-Enthusiast-blue?style=flat-square&logo=airflow&logoColor=white" alt="Data Engineering Badge">
-</p>
 
 
