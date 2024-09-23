@@ -64,4 +64,21 @@ Feel free to check out my repositories and contribute to any ongoing projects! �
 
 
 
+<h1 align="center">
+  <span id="greeting">👋 Hello, World!</span>
+</h1>
+
+<p align="center">
+  I'm [Your Name], a data enthusiast passionate about exploring the world of data science and engineering!
+</p>
+
+---
+
+### Multilingual Greetings:
+- **English**: Hello, World! 🌍
+- **Italian**: Ciao, Mondo! 🇮🇹
+- **Spanish**: ¡Hola, Mundo! 🌎
+- **French**: Bonjour, Monde! 🌍
+- **German**: Hallo, Welt! 🌍
+
 
