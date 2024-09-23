@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nouhayla Chataoui
+# Hi there!  /> 👋 I'm Nouhayla Chataoui
 
 I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, always eager to learn and work on innovative data-driven projects. My journey so far has been focused on applying AI and machine learning techniques to real-world problems, and I'm now diving deeper into cloud infrastructure, big data, and stream processing.
 
@@ -24,9 +24,9 @@ Developed a predictive model to analyze sentiments from text written in Darija, 
 In this project, I developed an end-to-end data engineering pipeline for analyzing real-time stock market data using Apache Kafka. The pipeline processes stock market data in real time, stores it in Amazon S3, and catalogs it using AWS Glue. The processed data can then be queried using Amazon Athena for powerful data analysis and insights.
 
 ## 📫 How to reach me
-- Email: nouhayla.chataoui24@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nouhayla-chataoui-208626211
-- GitHub: https://github.com/NouhaylaChataoui
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nouhayla-chataoui-208626211)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/NouhaylaChataoui)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nouhayla.chataoui24@gmail.com)
 
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
 
@@ -41,21 +41,4 @@ I'm **Nouhayla Chataoui**, a passionate **Data Scientist** exploring the excitin
 - 🌱 I'm familiar with technologies like **Python**, **SQL**, **Kafka**, **AWS**, and **GCP**.
 - 💡 I love discussing anything related to **machine learning**, **data engineering**, and **AI**.
 - ⚡ **Fun fact**: Did you know that over 1.145 trillion megabytes of data are produced daily? That's a lot of data!
-
----
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nouhayla-chataoui-208626211)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/NouhaylaChataoui)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nouhayla.chataoui24@gmail.com)
-
----
-
-## 🔧 Languages & Tools:
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apache-kafka)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=google-cloud)
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=power-bi)
 
