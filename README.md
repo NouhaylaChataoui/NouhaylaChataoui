@@ -18,7 +18,7 @@ Developed a predictive model to analyze sentiments from text written in Darija, 
 In this project, I developed an end-to-end data engineering pipeline for analyzing real-time stock market data using Apache Kafka. The pipeline processes stock market data in real time, stores it in Amazon S3, and catalogs it using AWS Glue. The processed data can then be queried using Amazon Athena for powerful data analysis and insights.
 
 ## 📫 How to reach me
-- Email: noham.chataoui@gmail.com
+- Email: nouhayla.chataoui24@gmail.com
 - LinkedIn: [Nouhayla Chataoui]https://www.linkedin.com/in/nouhayla-chataoui-208626211
 - GitHub: [NouhaylaChataoui]https://github.com/NouhaylaChataoui
 
