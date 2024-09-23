@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Nouhayla Chataoui</h1>
 
-![image](https://github.com/user-attachments/assets/465ebcc1-0ace-4ff7-b77e-5bacdef136f3)
+![image](https://github.com/user-attachments/assets/2fac87b5-f301-4649-a068-5a838e41337c)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NouhaylaChataoui&color=blue)
 
