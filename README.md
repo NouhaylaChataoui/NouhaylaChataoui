@@ -65,7 +65,7 @@ Feel free to check out my repositories and contribute to any ongoing projects! ð
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/821c7997-e2be-4593-a7cb-e11233cf96b0" alt="Profile Image" width="400">
+  <img src="[URL_de_ton_GIF](https://github.com/user-attachments/assets/821c7997-e2be-4593-a7cb-e11233cf96b0)" alt="GIF dynamique" width="400">
 </p>
 
 
