@@ -65,7 +65,8 @@ Feel free to check out my repositories and contribute to any ongoing projects! ð
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d638a10e-54d4-40a6-a5ba-10eb3629554f" alt="Profile Image" width="400">
+  <img src="https://github.com/user-attachments/assets/821c7997-e2be-4593-a7cb-e11233cf96b0" alt="Profile Image" width="400">
 </p>
+
 
 
