@@ -69,7 +69,7 @@ Feel free to check out my repositories and contribute to any ongoing projects! ð
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" alt="Hello World GIF" width="400">
+  <img src="https://media.giphy.com/media/RorC7LdGAZ8EanOi1F/giphy.gif?cid=790b7611ulumevim86hffh8dtcbad7ne0xiier4kemi3te9n&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hello World GIF" width="400">
 </p>
 
 
