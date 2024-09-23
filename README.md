@@ -63,7 +63,5 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
 
 
-
-![Hello World](path_to_your_gif.gif)
-[View dynamic Hello World](https://your-username.github.io/your-repo-name/)
+![image](https://github.com/user-attachments/assets/71e4e70d-bdb6-4167-90c1-059c2c783e50)
 
