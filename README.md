@@ -64,9 +64,6 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/821c7997-e2be-4593-a7cb-e11233cf96b0" alt="GIF dynamique" width="400">
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RorC7LdGAZ8EanOi1F/giphy.gif?cid=790b7611ulumevim86hffh8dtcbad7ne0xiier4kemi3te9n&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hello World GIF" width="400">
