@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Nouhayla Chataoui</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=NouhaylaChataoui&color=blue)
 
 I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, always eager to learn and work on innovative data-driven projects. My journey so far has been focused on applying AI and machine learning techniques to real-world problems, and I'm now diving deeper into cloud infrastructure, big data, and stream processing.
 
