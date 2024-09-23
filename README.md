@@ -31,7 +31,6 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
 
 <h1 id="greeting">👋 Hola, World! </h1>
-
 <script>
   const greetings = ["👋 Hola, World!", "👋 Hello, World!", "👋 Nihao, World!", "👋 Bonjour, World!", "👋 Namaste, World!"];
   let index = 0;
