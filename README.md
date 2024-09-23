@@ -3,7 +3,7 @@
 I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, always eager to learn and work on innovative data-driven projects. My journey so far has been focused on applying AI and machine learning techniques to real-world problems, and I'm now diving deeper into cloud infrastructure, big data, and stream processing.
 
 - 🌱 **Currently learning**: Cloud Infrastructure (AWS, GCP), Data Engineering tools, Big Data, Stream Processing
-- 🔭 **Working on**: Building real-time data pipelines and exploring new ML techniques for sentiment analysis
+- 🔭 **Working on**: Building real-time data pipelines and exploring new ML techniques
 - 💬 **Ask me about**: Data Science, Machine Learning, Data Engineering, Apache Kafka, AI Applications
 - ⚡ **Fun fact**: I’m a huge fan of space exploration, and I love staying updated on the latest developments in AI and its potential in space research!
 
