@@ -64,8 +64,6 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
 
 
-![image](https://github.com/user-attachments/assets/d638a10e-54d4-40a6-a5ba-10eb3629554f)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d638a10e-54d4-40a6-a5ba-10eb3629554f" alt="Profile Image" width="400">
 </p>
