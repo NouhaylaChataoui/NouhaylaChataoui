@@ -29,3 +29,31 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 - GitHub: https://github.com/NouhaylaChataoui
 
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
+
+
+# 👋 Hola, World! />
+
+I'm **Nouhayla Chataoui**, a passionate **Data Scientist** exploring the exciting world of **data science** and **engineering**! 🚀
+
+- 🛠 **Currently**, I'm focused on mastering cloud infrastructure and building real-time data pipelines.
+- 🌱 I'm familiar with technologies like **Python**, **SQL**, **Kafka**, **AWS**, and **GCP**.
+- 💡 I love discussing anything related to **machine learning**, **data engineering**, and **AI**.
+- ⚡ **Fun fact**: Did you know that over 1.145 trillion megabytes of data are produced daily? That's a lot of data!
+
+---
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nouhayla-chataoui-208626211)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/NouhaylaChataoui)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nouhayla.chataoui24@gmail.com)
+
+---
+
+## 🔧 Languages & Tools:
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apache-kafka)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=google-cloud)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=power-bi)
+
