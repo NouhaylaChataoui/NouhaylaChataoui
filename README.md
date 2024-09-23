@@ -11,18 +11,15 @@ I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, alwa
 - **Machine Learning**: Scikit-learn, TensorFlow, NLP
 
 ## 👨‍💻 Recent Projects
-### 1. **Air Pollution Hourly Data Pipeline**
-A real-time data pipeline that processes air quality data for 100 Polish cities, using Kafka and Google Cloud infrastructure.
-
-### 2. **Earthquakes Live Data Project**
-A data streaming project that ingests real-time earthquake data, transforms it using Apache Spark, and analyzes trends in Google Looker Studio.
-
-### 3. **Sentiment Analysis in Moroccan Darija (NLP)**
+### 1. **Sentiment Analysis in Moroccan Darija (NLP)**
 Developed a predictive model to analyze sentiments from text written in Darija, including a Streamlit interface for user interaction.
+
+### 2. **Real-Time Stock Market Data Analysis with Apache Kafka and AWS**
+In this project, I developed an end-to-end data engineering pipeline for analyzing real-time stock market data using Apache Kafka. The pipeline processes stock market data in real time, stores it in Amazon S3, and catalogs it using AWS Glue. The processed data can then be queried using Amazon Athena for powerful data analysis and insights.
 
 ## 📫 How to reach me
 - Email: noham.chataoui@gmail.com
-- LinkedIn: [Noham Chataoui](https://www.linkedin.com/in/nohamchataoui)
-- GitHub: [NohamChataoui](https://github.com/nohamchataoui)
+- LinkedIn: [Nouhayla Chataoui]https://www.linkedin.com/in/nouhayla-chataoui-208626211
+- GitHub: [NouhaylaChataoui]https://github.com/NouhaylaChataoui
 
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
