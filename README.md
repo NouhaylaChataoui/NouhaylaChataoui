@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Nouhayla Chataoui</h1>
 
-![image](https://github.com/user-attachments/assets/2fac87b5-f301-4649-a068-5a838e41337c)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NouhaylaChataoui&color=blue)
 
@@ -66,5 +64,6 @@ In this project, I developed an end-to-end data engineering pipeline for analyzi
 Feel free to check out my repositories and contribute to any ongoing projects! 🚀
 
 
-![image](https://github.com/user-attachments/assets/71e4e70d-bdb6-4167-90c1-059c2c783e50)
+![image](https://github.com/user-attachments/assets/d638a10e-54d4-40a6-a5ba-10eb3629554f)
+
 
