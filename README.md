@@ -22,7 +22,6 @@ I'm a passionate **Data Scientist** and a beginner in **Data Engineering**, alwa
 - **Data Engineering**: Apache Kafka, Apache Airflow, DBT, Terraform, Databricks
 - **Cloud**: Google Cloud Platform (GCP), AWS, Snowflake
 - **Databases**: PostgreSQL, BigQuery ...
-- **Databases**: PostgreSQL, BigQ
 - **Data Quality**: soda
 - **Machine Learning**: Scikit-learn, TensorFlow, NLP
 
